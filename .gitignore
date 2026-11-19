@@ -1,0 +1,7 @@
+.venv/
+models/
+ckpt/
+qg-model/
+__pycache__/
+.ipynb_checkpoints/
+.gradio/
